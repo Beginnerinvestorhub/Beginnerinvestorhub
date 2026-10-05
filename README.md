@@ -1,8 +1,10 @@
+<img align="right" width="96" src="https://raw.githubusercontent.com/Beginnerinvestorhub/patent-tools/main/connector/icon-dark.png" alt="Patent Tools">
+
 # Beginner Investor Hub
 
 We build tools that make intimidating things approachable.
 
-→ **[beginnerinvestorhub.com](https://beginnerinvestorhub.com)**
+→ <img valign="middle" width="16" src="https://beginnerinvestorhub.com/favicon.svg" alt=""> **[beginnerinvestorhub.com](https://beginnerinvestorhub.com)**
 
 ---
 
